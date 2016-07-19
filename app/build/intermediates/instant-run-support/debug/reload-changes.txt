@@ -1,0 +1,2 @@
+CHANGED,D:\CMU\Github\tutorial-android-your-first-app\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\cloud\artik\example\hellocloud\FlicReceiver$override.class
+CHANGED,D:\CMU\Github\tutorial-android-your-first-app\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
