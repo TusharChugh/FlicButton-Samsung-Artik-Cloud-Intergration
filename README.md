@@ -1,4 +1,6 @@
-#Integration of flic button with Samsung Artic Cloud
+#Integration of flic button with Samsung Artik Cloud
+
+Flic is listed as one of the most wanted devices to be integrated with Artik cloud platform. So, I went ahead to integrate it. (https://artik.cloud/challenge/most-wanted-devices)
 
 Steps to use the repo:
 
